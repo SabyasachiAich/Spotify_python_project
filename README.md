@@ -1,1 +1,2 @@
 # Spotify_python_project
+Spotify Data Analysis - Spotify is a Swedish audio streaming and media services provider founded in April 2006. It is the world's largest music streaming service provider and has over 381 million monthly active users, which also includes 172 million paid subscribers. It is an exploratory data analysis about music and drawing valuable insights with pandas, numpy, matplotlib.pyplot and seaborn.
